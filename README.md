@@ -1,6 +1,6 @@
 # Stronghands DEX Subgraph
 
-[Stronghands DEX](https://bnb.stronghandsdex.org/) is a decentralized protocol for automated token exchange on BNB Smart Chain, as part of Stronghands Protocol.
+[Stronghands DEX](https://bnb.stronghandsdex.org/) is a decentralized protocol for automated token exchange on BNB Smart Chain.
 
 This subgraph dynamically tracks any pair created by the swap factory. It tracks of the current state of pair contracts, and contains derived stats for things like historical data and USD prices.
 
